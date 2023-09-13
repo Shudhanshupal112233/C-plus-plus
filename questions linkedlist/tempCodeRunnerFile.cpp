@@ -1,0 +1,2 @@
+removeloop(head);
+  
